@@ -1,0 +1,12 @@
+@import "tailwindcss";
+html {
+  scroll-behavior: smooth; /* ገጹ ቀስ ብሎ እንዲንሸራተት ያደርጋል */
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
