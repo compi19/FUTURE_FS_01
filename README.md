@@ -1,4 +1,4 @@
-#  Full-Stack Web Development Future Internship 🚀
+#  Full-Stack Web Development Future Interns
 
 This repository showcases the projects and technical tasks completed during my ** Full-Stack Web Development Future Interns**. The curriculum focused on building modern, scalable web applications using the **MERN Stack** (MongoDB, Express.js, React, and Node.js).
 
@@ -60,4 +60,4 @@ To run any project from this repository on your local machine, follow these inst
     ```
 
 ---
-**Melkamu Alehegn** * Full-Stack Web Development Future Intern* [GitHub Profile](https://github.com/compi19) | [LinkedIn](https://www.linkedin.com/in/melkamu-alehegn)
+**Melkamu Alehegn** * Full-Stack Web Development Future Interns* [GitHub Profile](https://github.com/compi19) | [LinkedIn](https://www.linkedin.com/in/melkamu-alehegn)
